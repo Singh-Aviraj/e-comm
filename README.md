@@ -10,17 +10,7 @@ A basic eCommerce web application built using **PHP**, **HTML**, and **CSS**. Th
 
 ---
 
-## 🚀 Features
 
-- 🏠 Home Page (`index.php`)
-- 🔐 Login System (`login.php`)
-- 👤 My Account Page (`myaccount.php`)
-- 🛍 Product Detail Page (`single.php`)
-- 🛒 Shopping Cart (`cart.php`)
-- 💳 Checkout Process (`checkout.php`)
-- 🎨 Clean UI with basic CSS
-
----
 
 ## 🛠 Tech Stack
 
